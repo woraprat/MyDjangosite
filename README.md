@@ -1,2 +1,0 @@
-# MyDjangosite
-Web demo
