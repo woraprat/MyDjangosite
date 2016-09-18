@@ -2,9 +2,10 @@
 ##Objective
 
 - learn Django framework and python
-##Requirement
+Requirement
 Python3
-##Instruction
+
+Instruction
 To run server you need to use Command line :python3 manage.py runsever.
 
 
