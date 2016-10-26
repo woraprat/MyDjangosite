@@ -1,13 +1,7 @@
-# MyDjangosite
-##Objective
+#เวปไซต์ข่าวสาร
 
-- learn Django framework and python
-Requirement
-Python3
-
-Instruction
-To run server you need to use Command line :python3 manage.py runsever.
+##ฟังก์ชันการทำงาน
+### เพิ่ม ลบ เเก้ไขข้อมูลข่าวสาร ### ผู้พัฒนา วรปรัชญ์ บุญจีม
 
 
-Deverloper
-Woraprat
+
